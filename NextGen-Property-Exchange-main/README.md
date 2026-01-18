@@ -89,8 +89,6 @@ Create a .env file in the root directory and configure the necessary keys.</b>
 <li><b>SIGN-IN PAGE</b></li>
 <img src= "https://github.com/user-attachments/assets/094878b6-2b34-4c68-bd81-142033c87c15" width=800 height=400/><br><br>
  
-<li><b>CHOOSE GOOGLE ACCOUNT</b></li>
-<img src= "https://github.com/user-attachments/assets/d8e1923a-0eb4-450c-ac58-d31285fef631" width=800 height=400/><br><br>
  
 <li><b> PROFILE & YOUR LISTINGS PAGE</b></li>
 <img src= "https://github.com/user-attachments/assets/6ba5b93c-2f3f-43d4-aef7-4fdb226a838e" width=800 height=400/><br><br>
