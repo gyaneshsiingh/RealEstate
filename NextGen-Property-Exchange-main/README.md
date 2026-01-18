@@ -89,10 +89,7 @@ Create a .env file in the root directory and configure the necessary keys.</b>
 <li><b>SIGN-IN PAGE</b></li>
 <img src= "https://github.com/user-attachments/assets/094878b6-2b34-4c68-bd81-142033c87c15" width=800 height=400/><br><br>
  
- 
-<li><b> PROFILE & YOUR LISTINGS PAGE</b></li>
-<img src= "https://github.com/user-attachments/assets/6ba5b93c-2f3f-43d4-aef7-4fdb226a838e" width=800 height=400/><br><br>
- 
+
 <li><b>ABOUT PAGE</b></li>
 <img src= "https://github.com/user-attachments/assets/69ecf73c-40b3-4d18-924a-7bb043f0c9c1" width=800 height=400/><br><br>
  
@@ -108,8 +105,6 @@ Create a .env file in the root directory and configure the necessary keys.</b>
 <li><b>CONTACT PAGE</b></li>
 <img src= "https://github.com/user-attachments/assets/1cf26243-d786-4598-a8d7-65e55cb3f910" width=800 height=400/><br><br>
  
-<li><b>BOB CHATBOT</b></li>
-<img src= "https://github.com/user-attachments/assets/a6ef365b-3df8-4503-a5d0-2435ffd795e1" width=800 height=400/><br><br>
 
  <li><b>VIEW SPECIFIC LISTING</b></li>
 <img src= "https://github.com/user-attachments/assets/c4058d96-e7b8-4116-b5d2-93dac59922cb" width=800 height=400/><br><br>
